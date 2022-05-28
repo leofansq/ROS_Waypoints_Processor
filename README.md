@@ -67,3 +67,10 @@ waypoints records in .txt format
   ```bash
   python load_waypoints.py
   ```
+
+## Related projects in pure ROS (Melodic) 
+
+* [ROS_NDT_Mapping](https://github.com/leofansq/ROS_NDT_Mapping)
+* [ROS_NDT_Localizer](https://github.com/leofansq/ROS_NDT_Localizer)
+* [ROS_Pure_Pursuit](https://github.com/leofansq/ROS_Pure_Pursuit)
+* [ROS_Object_Cluster](https://github.com/leofansq/ROS_Object_Cluster)
